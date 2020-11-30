@@ -8,7 +8,7 @@ trigger:
 
 variables:
   webAppName: 'movewebapp'
-  azureSubscription: 'MoveConnection'
+  azureSubscription: 'NewConnection'
   vmImageName: 'ubuntu-latest'
 
 stages:
